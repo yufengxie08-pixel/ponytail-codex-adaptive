@@ -44,8 +44,8 @@ codex plugin add ponytail@ponytail
 安装后：
 
 1. 重启 Codex Desktop，或重新启动 Codex CLI。
-2. 打开 `/hooks`，检查并信任 Ponytail 的生命周期 hooks。
-3. 新建一个任务进行验证。
+2. 在终端运行 `codex plugin list`，确认 `ponytail@ponytail` 显示为 `installed, enabled`。
+3. 新建一个任务进行验证。当前版本没有单独的 `/hooks` 命令；插件启用后，hooks 会由 Codex 自动加载。
 
 如果你的 Codex 版本不支持 marketplace 命令，可以直接从本仓库加载插件目录，并确保 `.codex-plugin/plugin.json` 和 `hooks/` 一起保留。
 
