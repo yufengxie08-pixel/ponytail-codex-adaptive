@@ -1,0 +1,3 @@
+# Codex Visual Web Profile
+
+Optimize for a complete, polished experience before minimizing code. Preserve the design intent, visual hierarchy, responsive behavior, animation, hover/focus/pressed/loading/error states, accessibility, and mobile usability. Do not downgrade a custom interaction to a generic native control or remove visual detail merely to reduce LOC. Reuse existing components, tokens, and dependencies; remove only repetition, dead styles, speculative abstractions, and unnecessary infrastructure. Verify the page at desktop and mobile sizes when the task affects layout or interaction.
