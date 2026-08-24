@@ -6,8 +6,8 @@
     "name": "Dietrich Gebert",
     "url": "https://github.com/DietrichGebert"
   },
-  "homepage": "https://github.com/DietrichGebert/ponytail",
-  "repository": "https://github.com/DietrichGebert/ponytail",
+  "homepage": "https://github.com/yufengxie08-pixel/ponytail-codex-adaptive",
+  "repository": "https://github.com/yufengxie08-pixel/ponytail-codex-adaptive",
   "license": "MIT",
   "keywords": ["yagni", "minimalism", "code-review", "productivity"],
   "skills": "./skills/",
@@ -19,7 +19,7 @@
     "developerName": "Dietrich Gebert",
     "category": "Productivity",
     "capabilities": ["Instructions", "Lifecycle hooks"],
-    "websiteURL": "https://github.com/DietrichGebert/ponytail",
+    "websiteURL": "https://github.com/yufengxie08-pixel/ponytail-codex-adaptive",
     "defaultPrompt": [
       "Use Ponytail mode for this task.",
       "Review this diff for over-engineering.",
